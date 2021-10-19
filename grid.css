@@ -1,0 +1,13 @@
+
+ 
+
+#container{
+    width:95vw;
+    height:60vh;
+    margin:0 auto;
+    background-color: red;
+    outline: 8px solid #4834D4;
+    display:grid;
+    grid-template-columns:200px 200px 200px;
+    grid-template-rows:;
+}
